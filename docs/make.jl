@@ -16,5 +16,5 @@ makedocs(
 
 deploydocs(
     repo = "github.com/eisthf/MyAwesomePackage.git",
-    devbranch="main",
+    devbranch="master",
 )
