@@ -3,6 +3,12 @@ using MyAwesomePackage
 
 makedocs(
     sitename = "MyAwesomePackage",
+    pages = [
+        pages = [
+            "Index" => "index.md",
+            "LEAudioCodecRate" => "LEAudioCodecRate.md",
+         ],
+    ],
     format = Documenter.HTML(),
     modules = [MyAwesomePackage]
 )
