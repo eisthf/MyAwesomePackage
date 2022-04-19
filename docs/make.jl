@@ -15,5 +15,5 @@ makedocs(
 )=#
 
 deploydocs(
-    repo = "github.com/eisthf/MyAwesomePackage.jl",
+    repo = "github.com/eisthf/MyAwesomePackage.git",
 )
