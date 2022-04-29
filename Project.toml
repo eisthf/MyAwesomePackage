@@ -1,7 +1,7 @@
 name = "MyAwesomePackage"
 uuid = "a45c323d-a907-407c-8ed9-ce3c2b29a4f3"
 authors = ["eisthf <eisthf@gmail.com> and contributors"]
-version = "0.1.0"
+version = "0.1.1"
 
 [compat]
 julia = "1"
